@@ -1,5 +1,6 @@
 import random
 
+MAX_SIZE = 3
 MAX_LENGTH = 4
 CELL_EMPTY = '□'
 row = [[CELL_EMPTY for _ in range(MAX_LENGTH)] for i in range(MAX_LENGTH)]
